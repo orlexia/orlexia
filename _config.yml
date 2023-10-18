@@ -1,9 +1,9 @@
 # main text of home
 title: Alex Orlexia
-bio: A Person who travels the world eating noodles
+bio: こんにちは、私の名前はアレックス・オルレクシアです。アニメとクラシック音楽のファンで、YouTuberでもあります。
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: アレックス・オルレクシア公式ブログ
 
 # if it's an external image, update below for true
 # better with square images
@@ -34,11 +34,11 @@ disqus:
   categories: [blog, project,reseñas] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: alexorlexia
-twitter: orlexia
-instagram: orlexia
+#facebook: alexorlexia
+#twitter: orlexia
+#instagram: orlexia
 #linkedin: mylinkedin
-github: orlexia
+#github: orlexia
 email: alexorlexia@gmail.com
 
 authors:
