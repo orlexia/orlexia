@@ -33,7 +33,4 @@ Estos, metodos se usaran para que puedas jugar con tu propio perfil de Xbox Live
 ## Metodo Bonus
 En los juegos arcade ocupas que el juego cargue al 100% hasta el menú para poder hacer algunos de los métodos. Incluso algunos juegos/dlcs necesitan ser jugados y cerrar sesion dentro de la partida para que funcionen los metodos, Esperamos que disfrutes tus titulos preferidos 🎮
 
-
-
-
-[![Letters Change](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D200FF&center=true&width=435&lines=Starlex;Desarollador;Gamer;Animetuber;Gamedev;Designer;Escritor+de+blogs;Starlex+%C2%A9+Alex+Orlexia)](https://orlexia.us)
+[![Letters Change](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D200FF&center=true&width=435&lines=Orlexia;Desarollador;Gamer;Animetuber;Gamedev;Designer;Escritor+de+blogs;Orlexia+%C2%A9+Alex+Orlexia)](https://orlexia.us)
